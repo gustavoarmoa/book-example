@@ -1,5 +1,5 @@
-This repository contains all the example code from my book, "Test-Driven Web
-Development with Python", available at
+Este repositório com todos os exemplos de códigos do livro, "Test-Driven Web
+Development with Python", disponivel em
 [www.obeythetestinggoat.com](https://www.obeythetestinggoat.com)
 
 ## Checking out code for individual chapters
